@@ -1,0 +1,27 @@
+{
+  "name": "winston-gae",
+  "description": "A Google App Engine (Managed VMs) transport for Winston",
+  "version": "0.1.0",
+  "author": "Seth Thompson <seththompson@google.com>",
+  "keywords": [
+    "logging",
+    "sysadmin",
+    "tools",
+    "winston",
+    "gae",
+    "appengine",
+    "googleappengine",
+    "gcp",
+    "googlecloudplatform"
+  ],
+  "devDependencies": {
+    "winston": ">=0.6.x"
+  },
+  "peerDependencies": {
+    "winston": ">=0.6.x"
+  },
+  "main": "./lib/winston-gae",
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
