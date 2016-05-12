@@ -14,6 +14,11 @@
     "gcp",
     "googlecloudplatform"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoogleCloudPlatform/winston-gae.git"
+  },
+  "homepage": "https://github.com/GoogleCloudPlatform/winston-gae#readme",
   "devDependencies": {
     "winston": ">=0.6.x"
   },
