@@ -14,6 +14,9 @@
     "gcp",
     "googlecloudplatform"
   ],
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
   "devDependencies": {
     "winston": ">=0.6.x"
   },
