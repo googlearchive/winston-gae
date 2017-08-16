@@ -1,9 +1,10 @@
 # winston-gae
 
-A Google App Engine (Managed VMs) transport for [Winston](https://github.com/flatiron/winston).  Logs will show up in the [Google Developers Console](https://console.developers.google.com/project) Logs Viewer.
+> **This module is no longer maintained**. Please use the official module
+> [@google-cloud/logging-winston](https://www.npmjs.com/package/@google-cloud/logging-winston)
+> instead.
 
-> Experimental until v1.0.0
-> This is not an official Google project
+A Google App Engine (Managed VMs) transport for [Winston](https://github.com/winstonjs/winston).  Logs will show up in the [Google Developers Console](https://console.developers.google.com/project) Logs Viewer.
 
 ## Installation
 
