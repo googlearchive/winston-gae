@@ -1,7 +1,7 @@
 {
   "name": "winston-gae",
   "description": "A Google App Engine (Managed VMs) transport for Winston",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Seth Thompson <seththompson@google.com>",
   "keywords": [
     "logging",
